@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Deep Cut PowerWashing LLC</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+}
+header {
+  background:#1f4e79;
+  color:white;
+  padding:40px;
+  text-align:center;
+}
+section {
+  padding:40px;
+}
+.services li {
+  margin:8px 0;
+}
+.contact {
+  background:#f4f4f4;
+}
+button {
+  background:#1f4e79;
+  color:white;
+  padding:12px 20px;
+  border:none;
+  font-size:16px;
+}
+footer {
+  text-align:center;
+  padding:20px;
+  background:#222;
+  color:white;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Deep Cut PowerWashing LLC</h1>
+<p>Professional Exterior Cleaning in Holmdel, NJ</p>
+<button onclick="location.href='mailto:deepcutpowerwashing@gmail.com'">Get a Free Quote</button>
+</header>
+
+<section>
+<h2>About Us</h2>
+<p>At Deep Cut PowerWashing, we specialize in revitalizing the exterior of your property. We clean siding, concrete, pavers, and masonry walls using professional equipment and eco-friendly solutions.</p>
+</section>
+
+<section>
+<h2>Our Services</h2>
+<ul class="services">
+<li>House & Building Washing</li>
+<li>Driveway & Concrete Cleaning</li>
+<li>Patio & Paver Restoration</li>
+<li>Masonry Wall Cleaning</li>
+<li>Residential & Commercial Properties</li>
+</ul>
+</section>
+
+<section>
+<h2>Why Choose Us?</h2>
+<ul>
+<li>Professional and reliable service</li>
+<li>Safe cleaning methods</li>
+<li>Eco-friendly solutions</li>
+<li>Free quotes</li>
+<li>Locally owned and operated</li>
+</ul>
+</section>
+
+<section>
+<h2>FAQ</h2>
+<p><strong>What surfaces do you clean?</strong><br>
+We clean siding, concrete, pavers, masonry walls, and more.</p>
+
+<p><strong>How often should I power wash?</strong><br>
+At least once per year depending on buildup.</p>
+
+<p><strong>Is power washing safe?</strong><br>
+Yes, we use proper techniques to avoid damage.</p>
+
+<p><strong>How should I prepare?</strong><br>
+Remove furniture, decorations, and vehicles.</p>
+</section>
+
+<section class="contact">
+<h2>Contact Us</h2>
+<p>
+📍 39 Maria Court, Holmdel, NJ 07733<br>
+📧 deepcutpowerwashing@gmail.com<br>
+📞 (908) 307-0392
+</p>
+
+<p>
+Business Hours:<br>
+Mon – Fri: 9 AM – 6 PM<br>
+Sat – Sun: Closed
+</p>
+</section>
+
+<footer>
+<p>© Deep Cut PowerWa
